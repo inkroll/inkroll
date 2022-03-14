@@ -16,13 +16,13 @@
 
 
 
-### 近期状态：
+### Recent status：
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShallowInk-cloud&theme=onedark)
 
 
 
-### 最常使用的语言：
+### Use frequently：
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark)
 
