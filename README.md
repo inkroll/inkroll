@@ -1,6 +1,7 @@
 
-
 ### Hi I'm Rudy👋
+### I'm a Chinese. Above is my English name.
+### My pen name is  🖋  Shallow Ink.
 
 ---
 
@@ -14,15 +15,18 @@
 - 💬 Ask me about Anything you want~
 - 📔 If you want to know more about me,you can try my blog~
 
+### Below is my github status:
 
+---
 
-### Recent status：
+### Recent status
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShallowInk-cloud&theme=onedark)
 
 
 
-### Use frequently：
+### Use frequently
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark)
+
 
