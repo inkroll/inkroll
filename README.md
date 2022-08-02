@@ -9,5 +9,5 @@
 - 🤖 I’m currently a FE working in Hangzhou, China.
 - 👨‍💻 I’m currently learning JS & TS、Vue、React，etc...
 - 📫 Email: shallowink1999@163.com
-- 🎣 Fun fact: Reading, poetry, watching movies, traveling, exercising, thinking, video games
+- 🎣 Fun fact: Reading, poetry, watching movies, traveling, thinking...
 - 💬 Ask me about Anything you want~
