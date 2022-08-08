@@ -1,5 +1,5 @@
 
-### Hi I'm Yorick Hu👋
+### Hi I'm Yorik Hu👋
 
 ---
 
