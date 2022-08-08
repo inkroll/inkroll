@@ -1,6 +1,5 @@
 
-### Hi I'm Inkroll👋
-> I'm a Chinese. Above is my nickname.
+### Hi I'm Yorick Hu👋
 
 ---
 
